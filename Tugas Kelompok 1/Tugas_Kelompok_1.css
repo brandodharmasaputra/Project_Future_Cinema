@@ -1,0 +1,18 @@
+.jumbotron{
+    background-image: url("../Gambar/225946.jpg");
+}
+.navbar{
+    background-image: url("../Gambar/225946.jpg");
+    border-radius: 2px;
+}
+.carousel-inner{
+    height: 575px;
+    width: auto;
+}
+#darkcard{
+    height: 150px;
+    background-image: url("../Gambar/225946.jpg");
+}
+.body{
+    background-image: url("../Gambar/225946.jpg");
+}
