@@ -2,3 +2,15 @@
     background-image: url("../Gambar/225946.jpg");
     border-radius: 2px;
 }
+
+body{
+    background-image: url("../Gambar/225946.jpg");
+}
+  
+.center {
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

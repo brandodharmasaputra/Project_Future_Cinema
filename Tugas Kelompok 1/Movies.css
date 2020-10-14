@@ -1,0 +1,20 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+}
+
+#navbar{
+    background-image: url("../Gambar/225946.jpg");
+    border-radius: 2px;
+}
+
+body{
+    background-image: url("../Gambar/225946.jpg");
+}
+
+#btn{
+    width: 150px;
+    justify-items: center;
+}

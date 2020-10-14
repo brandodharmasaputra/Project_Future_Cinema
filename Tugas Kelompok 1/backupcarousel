@@ -27,3 +27,41 @@
                 <span class="carousel-control-next-icon"></span>
               </a>
             </div>
+
+
+
+
+
+
+
+            <div class="card bg-dark text-white" id="lightcard">
+              <div class="row">
+                <div class="card-body col-xs-4">
+                  <div class="container">
+                    <h5>About Future Cinema</h5><br>
+                  <p>Imagine</p>
+                  <p>Being able to watch countless movies from around the world.<br>
+                    being able to watch it wherever you want and whenever you want <br>
+                    24/7 on your phone, laptop, tablet or TV and many more. <br><br>  
+                    
+                    First of all, you can download it or watch it offline. <br>
+                    We provide you many trailers for the upcoming. <br>  
+                    You will also be notified about upcoming movies. <br>
+                    We provide up to date movies for your satisfaction.<br> <br>
+  
+                    What's more? <br>
+                    We provide a special access for you to watch movies <br>
+                    which will be played at Cinema later on. So, whenever <br>
+                    it is, you could always satisfy your curiosity by <br>
+                    watching the movie earliest than the others.
+                  </p>
+                  </div>
+                </div>
+                <div class="card-body col-xs-6">
+                  <img src="../Gambar/9x.jpg" alt="ManyMovies" id="img">
+                </div>
+              </div>
+              
+            </div>
+
+        <br>
