@@ -4,10 +4,12 @@
     border-radius: 2px;
 }
 #lightcard{
+    background-image: url("../Gambar/225946.jpg");
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-color: white;
 }
 body{
     background-image: url("../Gambar/225946.jpg");
