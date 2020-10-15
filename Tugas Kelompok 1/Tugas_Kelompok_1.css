@@ -9,7 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-color: white;
+    border-color: gray;
 }
 body{
     background-image: url("../Gambar/225946.jpg");
@@ -31,5 +31,5 @@ body{
 }
 
 #cards {
-    border-color: #ffffff;
+    border-color: gray;
 }
